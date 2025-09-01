@@ -3,9 +3,8 @@ This branch contains lyrics from:
 # Vylet Pony
 - Todo: A lot
 # Missing songs
-- Love and Ponystep - tracks 6-21
+- Love and Ponystep - tracks 6-12, 14-21
 - Monarch of Monsters - tracks 8, 10
-- Girls Who Are Wizards - track 4
 - Queen of Misfits - tracks 3, 11, 16, 18
 - Love Letters: Colourless - track 10
 - Homeward - tracks 5, 7, 8, 9, 15, 17, 18, 19
